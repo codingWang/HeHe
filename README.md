@@ -2,6 +2,10 @@
 ### Just a sample app which I practice how to use MVP Architecture to develop an android app
 
 
+## Image
+[](https://github.com/codingWang/HeHe/blob/master/image/jiegou.png)
+
+
 
 ## Dependencies
 
