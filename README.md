@@ -3,7 +3,7 @@
 
 
 ## Image
-[](https://github.com/codingWang/HeHe/blob/master/image/jiegou.png)
+![image](https://github.com/codingWang/HeHe/blob/master/image/jiegou.png)
 
 
 
